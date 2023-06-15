@@ -1,5 +1,8 @@
+<html>
+<head></head>
+<body>
 <div align="center">
-  <img src="https://github.com/jeanmvco/miapp/assets/128648025/c3cb1ebb-7734-4414-a186-3cd3b7012686" width="120" height="50">
+	<img src="https://github.com/jeanmvco/miapp/assets/128648025/4801cafd-95e4-4b5e-9e72-4f5da429c153" width="100" height="100">
 </div>
 
 <div align="center">
@@ -12,5 +15,24 @@
 	<img src="https://github.com/jeanmvco/miapp/assets/128648025/a82da281-9346-48d2-bf55-81b4428b487d" width="180" height="400">
 	<img src="https://github.com/jeanmvco/miapp/assets/128648025/bf2ddac9-c272-4d58-aa7d-393feba81adc" width="180" height="400">
 	<img src="https://github.com/jeanmvco/miapp/assets/128648025/82c3c4f8-2c5c-4fb6-8372-c614d52e5d52" width="180" height="400">
-</div>
+</div>	
+	<h2>Caracteristicas:</h2/>
+<ul>
+	<li>Programas Para Windows</li>
+	<li>Aplicaiones para ANDROID</li>
+	<li>Codigos y Comandos para WINDOWS</li>
+	<li>Paginas utiles con herramientas</li>
+	<li>Juegos gratis</li>
+</ul>
+	
+</body>
+</html>
+
+
+
+
+
+
+
+
 
