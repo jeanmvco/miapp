@@ -25,8 +25,8 @@
 	<li>Juegos gratis</li>
 </ul>
 	<h2>Instalacion:</h2/>
-	
-<a href="https://github.com/jeanmvco/miapp/releases/tag/artic_releases"><img src="https://github.com/jeanmvco/miapp/assets/128648025/82d1b7d2-05e6-4fb4-b9bd-1046c1e59422" width="188" height="82"></a>
+<a href="https://github.com/jeanmvco/miapp/releases"><img src="https://github.com/machiav3lli/oandbackupx/raw/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80" style="max-width: 100%;"></a>
+
 	
 	
 </body>
