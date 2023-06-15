@@ -24,7 +24,9 @@
 	<li>Paginas utiles con herramientas</li>
 	<li>Juegos gratis</li>
 </ul>
+	<h2>Instalacion:</h2/>
 	
+<a href="https://github.com/jeanmvco/miapp/releases/tag/artic_releases"><img src="https://github.com/jeanmvco/miapp/assets/128648025/82d1b7d2-05e6-4fb4-b9bd-1046c1e59422" width="188" height="82"></a>
 	
 	
 </body>
