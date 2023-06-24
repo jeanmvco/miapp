@@ -2,7 +2,8 @@
 <head></head>
 <body>
 <div align="center">
-	<img src="https://github.com/jeanmvco/miapp/assets/128648025/4801cafd-95e4-4b5e-9e72-4f5da429c153" width="100" height="100">
+	<img src="https://github.com/jeanmvco/miapp/assets/128648025/e67b5e4a-caea-4d5f-aadf-bcb36897bf87" width="100" height="100">
+
 </div>
 
 <div align="center">
