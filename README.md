@@ -2,7 +2,8 @@
 <head></head>
 <body>
 <div align="center">
-	<img src="https://github.com/jeanmvco/miapp/assets/128648025/e67b5e4a-caea-4d5f-aadf-bcb36897bf87" width="100" height="100">
+	<img src="https://github.com/jeanmvco/miapp/assets/128648025/c572b547-ed19-436b-a6ba-5bd002e42381" width="100" height="100">
+
 
 </div>
 
@@ -19,11 +20,11 @@
 </div>	
 	<h2>Caracteristicas:</h2/>
 <ul>
-	<li>Programas Para Windows</li>
-	<li>Aplicaiones para ANDROID</li>
-	<li>Codigos y Comandos para WINDOWS</li>
-	<li>Paginas utiles con herramientas</li>
-	<li>Juegos gratis</li>
+	<li>Programas Para Windows.</li>
+	<li>Aplicaiones para ANDROID.</li>
+	<li>Codigos y Comandos para WINDOWS.</li>
+	<li>Paginas utiles con herramientas.</li>
+	<li>Juegos gratis.</li>
 </ul>
 	<h2>Instalacion:</h2/>
 <a href="https://github.com/jeanmvco/miapp/releases"><img src="https://github.com/machiav3lli/oandbackupx/raw/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80" style="max-width: 100%;"></a>
